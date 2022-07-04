@@ -1,0 +1,66 @@
+body{
+    background: linear-gradient(180deg, #FFF6FB 0%, #E7F6FC 33.33%, rgba(213, 224, 255, 0) 100%);
+    font-family: 'DM Sans';
+}
+.container_pink {
+    background: linear-gradient(165.41deg, #D99EC9 0%, rgba(246, 240, 196, 0) 100%) !important;
+}
+.container_pink p{
+    padding: 5px;
+}
+.liberate button{
+    background-color: #FF164054;
+    color: white;
+    border: 0;
+    border-radius: 7px;
+    margin-left: 50%;
+    margin-right: 50%;
+}
+.track {
+    background: linear-gradient(180deg, #FFF6FB 0%, #FFFFFF 100%) !important; 
+}
+.track button{
+    background: linear-gradient(288.62deg, #6E8CF6 42.36%, rgba(110, 213, 246, 0.93) 115.74%);
+    box-shadow: 0px 2px 16px rgba(71, 222, 255, 0.33);
+    border-radius: 70px;
+}
+.period{
+    background: linear-gradient(176.88deg, #F3B8BC 2.58%, #FFDAD4 93.07%) !important;
+}
+.period button{
+    background-color: pink;
+    border-radius: 7px;
+    color: white;
+}
+.consult{
+    background: linear-gradient(270deg, #DADAE4 0.25%, #EEEEF0 24.33%, #F8F8F8 52.08%, #FEFEFE 100%);
+}
+.consult button{
+    background: linear-gradient(288.62deg, #6E8CF6 42.36%, rgba(110, 213, 246, 0.93) 115.74%);
+    box-shadow: 0px 2px 16px rgba(71, 222, 255, 0.33);
+    border-radius: 70px;
+}
+.box{
+    background: #F66E6E;
+}
+.box button{
+    font-family: 'Poppins';
+    background: #000000;
+    border-radius: 27px;
+    color: white;
+}
+.quote{
+    background: linear-gradient(180deg, #FFF6FB 0%, #E7F6FC 100%);
+}
+.footer{
+    /* background: #050506; */
+    background-color: black;
+    color: white;
+}
+.footer li{
+    padding: 10px;
+    list-style-type: none;
+}
+.footer img{
+    padding: 10px;
+}
